@@ -7,7 +7,8 @@
  * Extend the clearfix class with Sass to avoid the `.clearfix` class appearing
  * over and over in your markup.
  */
-.u-clearfix {
+.u-clearfix,
+%u-clearfix {
 
     &:after {
         content: "";
