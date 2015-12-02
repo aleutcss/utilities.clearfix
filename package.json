@@ -1,5 +1,5 @@
 {
-  "name": "aleut-clearfix",
+  "name": "@aleut/aleut-clearfix",
   "version": "0.3.0",
   "description": "Small clearfixing utility for the aleutcss framework (based on Harry Roberts inuitcss framework)",
   "main": "_trumps.clearfix.scss",
