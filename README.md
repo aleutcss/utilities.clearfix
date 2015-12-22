@@ -1,6 +1,6 @@
 # Clearfix
 
-The inuitcss `clearfix` module is a minimal clearfix helper class.
+The aleutcss `clearfix` module is a minimal clearfix helper class.
 
 Install using Bower:
 
