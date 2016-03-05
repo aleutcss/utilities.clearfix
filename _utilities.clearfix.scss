@@ -4,16 +4,8 @@
 
 /**
  * Micro clearfix, as per: css-101.org/articles/clearfix/latest-new-clearfix-so-far.php
- * Extend the clearfix class with Sass to avoid the `.clearfix` class appearing
- * over and over in your markup.
+ * If you need clearfix on other classes use the clearfix-mixin in the same way as here:
  */
-.u-clearfix,
-%u-clearfix {
-
-    &:after {
-        content: "";
-        display: table;
-        clear: both;
-    }
-
+.u-clearfix{
+	@include clearfix;
 }

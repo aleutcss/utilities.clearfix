@@ -23,5 +23,8 @@
     "aleut",
     "oocss",
     "css"
-  ]
+  ],
+  "dependencies": {
+      "@aleut/aleut-tools.clearfix": "~0.1.0"
+    }
 }

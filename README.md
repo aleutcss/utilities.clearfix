@@ -3,7 +3,18 @@
 The aleutcss `clearfix` module is a minimal clearfix helper class.
 
 
+## Install using npm:
 
-Install using npm:
+```ssh
+$ npm install --save-dev aleut-clearfix
 
-    $ npm install --save-dev aleut-clearfix
+```
+
+## Usage
+
+Add the class to avoid floating-bugs:
+```html
+	<div class="u-clearfix">
+		<div style="float: left">Content</div>
+	</div>
+```
