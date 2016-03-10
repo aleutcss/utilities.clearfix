@@ -6,7 +6,7 @@ The aleutcss `clearfix` module is a minimal clearfix helper class.
 ## Install using npm:
 
 ```ssh
-$ npm install --save-dev aleut-clearfix
+$ npm install --save-dev @aleut/utilities.clearfix
 
 ```
 
