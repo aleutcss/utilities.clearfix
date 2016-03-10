@@ -1,7 +1,7 @@
 {
   "name": "aleut.utilities.clearfix"
 ,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Small clearfixing utility for the aleutcss framework (based on Harry Roberts inuitcss framework)",
   "main": "_utilities.clearfix.scss",
   "repository": {
@@ -26,6 +26,6 @@
     "css"
   ],
   "dependencies": {
-      "aleut.tools.clearfix": "~1.0.0"
+      "aleut.tools.clearfix": "~1.0.1"
     }
 }
